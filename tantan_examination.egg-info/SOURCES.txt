@@ -1,0 +1,16 @@
+MANIFEST.in
+README.md
+VERSION
+setup.py
+tantan_examination/__init__.py
+tantan_examination/__init__.pyc
+tantan_examination/config.py
+tantan_examination/config.pyc
+tantan_examination/exam2.py
+tantan_examination.egg-info/PKG-INFO
+tantan_examination.egg-info/SOURCES.txt
+tantan_examination.egg-info/dependency_links.txt
+tantan_examination.egg-info/requires.txt
+tantan_examination.egg-info/top_level.txt
+tantan_examination/data/a.log
+tantan_examination/data/data.json

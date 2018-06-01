@@ -2,23 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5393ceff-61bc-48eb-9be0-cad72d77ebf0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MANIFEST.in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VERSION" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/.nojekyll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/source/api/index.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/source/api/tantan_examination.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/source/conf.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/source/design.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/source/getting_started.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/source/index.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/source/intro.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/setup.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tantan_examination/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tantan_examination/config.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tantan_examination/data/a.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tantan_examination/data/data.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tantan_examination/exam2.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,21 +25,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+            <state relative-caret-position="308">
+              <caret line="49" column="16" lean-forward="false" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="getting_started.rst" pinned="false" current-in-tab="true">
+      <file leaf-file-name="getting_started.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/source/getting_started.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="391">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -168,16 +151,16 @@
         <option value="$PROJECT_DIR$/docs/source/api/index.rst" />
         <option value="$PROJECT_DIR$/tantan_examination/config.py" />
         <option value="$PROJECT_DIR$/docs/source/intro.rst" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/docs/source/index.rst" />
         <option value="$PROJECT_DIR$/tantan_examination/exam2.py" />
         <option value="$PROJECT_DIR$/docs/source/getting_started.rst" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="168" />
-    <option name="y" value="21" />
+    <option name="x" value="631" />
+    <option name="y" value="39" />
     <option name="width" value="1255" />
     <option name="height" value="928" />
   </component>
@@ -310,7 +293,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="168" y="21" width="1255" height="928" extended-state="0" />
+    <frame x="631" y="39" width="1255" height="928" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25275657" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -483,18 +466,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/docs/source/getting_started.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        <state relative-caret-position="391">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/source/getting_started.rst">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="308">
+          <caret line="49" column="16" lean-forward="false" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
           <folding />
         </state>
       </provider>

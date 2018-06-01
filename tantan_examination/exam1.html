@@ -1,0 +1,54 @@
+<table border="1">
+ <thead>
+  <tr>
+   <td>name</td>
+   <td>age</td>
+   <td>operate</td>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>user0</td>
+   <td>18</td>
+   <td><input type="button" value="delete" /></td>
+  </tr>
+ </tbody>
+</table>
+
+<script type="text/javascript">
+  var count = 0;
+
+  $(document).ready(function() {
+    addRow();
+  } );
+
+
+  function deleteRow () {
+    if (count != 1) {
+        $("table#myTable").dataTable().fnDeleteRow(count - 1);
+
+        count--;
+    }
+  }
+
+function addRow(){
+    $.ajax({
+        type: 'GET',
+        url: './data/data.json',
+        success: function(data){    // data is an array
+            $.each(data,function(i, item){
+                $('table tbody tr')
+                    .append($('<td>'+item.name+'</td><td>'+item.age+'</td><td><input type="button" value="delete" />delete</td>'));
+            });
+
+        }
+    });
+}
+function remove_line(buton_instance){
+    var itemId = $(button_instance).closest('tr').find('.id').text();
+
+    $('table tbody td input').on('change', function(){
+        $(this).find('tr').remove();
+    });
+}
+</script>

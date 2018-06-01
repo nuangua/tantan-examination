@@ -6,6 +6,7 @@ tantan_examination/__init__.py
 tantan_examination/__init__.pyc
 tantan_examination/config.py
 tantan_examination/config.pyc
+tantan_examination/exam1.html
 tantan_examination/exam2.py
 tantan_examination.egg-info/PKG-INFO
 tantan_examination.egg-info/SOURCES.txt
